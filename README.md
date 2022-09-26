@@ -18,7 +18,7 @@ Site Makeup
 - JS (JavaScript)
 
 
-  Link to the site:
+  Link to the site:https://madams1972.github.io/javascript-quiz/index.html
 Site Mock ups below
 
 <img width="1082" alt="Image -3" src="https://user-images.githubusercontent.com/73671454/192173985-48ec41e7-38f8-4208-a160-32a4e1a7e401.png">
